@@ -1,0 +1,101 @@
+Property_id,Property_Name,Property_Address,Metro_Area,Square_Foot (SF),Property_Type
+1,Prologis Witt Road,5001 Witt Road,Dallas,7361640,Build-to-suit
+2,Prologis Lewisville 2,401 West Vista Ridge Mall Drive,Lewisville,196987,Building
+3,"Prologis Interchange 20, Building 3",3651 Allen Avenue,Arlington,173243,Spec Building
+4,Prologis Atlantic Station 1,W. Plano Pkwy,Plano,160494,Spec Building
+5,Prologis Great Southwest 89,1400 S. Great Southwest Parkway,Grand Prairie,216350,Spec Building
+6,"Prologis Park 121, Building 3",220 N Freeport Parkway,Coppell,212980,Building
+7,Prologis Great Southwest 86,2615 Gifford Street,Grand Prairie,322215,Building
+8,Prologis Freeport Corporate Center 3,9400 N. Royal Lane,Irving,260700,Building
+9,Prologis Freeport Corporate Center 3,9400 N. Royal Lane,Irving,260700,Building
+10,Prologis Atlantic Station 3,W. Plano Pkwy,Plano,122097,Spec Building
+11,Prologis Freeport Corporate Center 24,600 Freeport Parkway,Coppell,154744,Building
+12,Prologis Freeport Corporate Center 20,800 W Bethel Road,Coppell,143000,Building
+13,Prologis Great Southwest 60,2951 Great Southwest Parkway,Grand Prairie,132805,Building
+14,Prologis Mesquite Distribution Center 2,5351 Samuell Boulevard,Mesquite,130300,Building
+15,Prologis Atlantic Station 2,W. Plano Pkwy,Plano,109609,Spec Building
+16,Prologis Great Southwest 48,410 W. Trinity Blvd.,Grand Prairie,107585,Building
+17,"Prologis Park Meacham, Building 2",3901 N. Sylvania Avenue,Fort Worth,106818,Building
+18,Prologis Heritage Business Park 1,1100 S Kimball Ave,Southlake,94993,Building
+19,Prologis Heritage Business Park 9,1070 S Kimball Avenue,Southlake,94799,Building
+20,"Prologis Interchange 20, Building 1",3500 New York Avenue,Arlington,79397,Spec Building
+21,Prologis Northgate 30,3150 Marquis Dr,Garland,72423,Building
+22,"Prologis Interchange 20, Building 2",1700 E Mayfield Road,Arlington,70196,Spec Building
+23,Prologis Flower Mound 6,2000 Lakeside Parkway,Flower Mound,66566,Building
+24,Prologis Heritage Business Park 4,801 Industrial Boulevard,Grapevine,66212,Building
+25,Prologis DFW Corporate Center 1,2611 Regent Blvd,Irving,62000,Building
+26,Prologis Northgate 6,11441 Hillguard Road,Dallas,59132,Building
+27,Dulles Logistics Center 4,22620 Lockridge Road,Sterling,58240,Spec Building
+28,Prologis Stemmons 11,151 Regal Row,Dallas,12860,Building
+29,Prologis Stemmons 10,304-308 W Mockingbird Lane,Dallas,51264,Building
+30,"Prologis Freeport 121 Crossing, Building 2",4051 Freeport Parkway,Grapevine,50502,Building
+31,Prologis Freeport Corporate Center 2,5201 Regent Boulevard,Irving,50200,Building
+32,Prologis Enterprise Distribution Center C,505 Century Parkway,Allen,33144,Building
+33,Prologis Freeport Corporate Center 18,621 South Royal Lane,Coppell,49820,Building
+34,Prologis Northwest Trade Center 9,1061 Texan Trail,Grapevine,6500,Building
+35,Prologis Stemmons 21,9755 Clifford Drive,Dallas,44167,Building
+36,Prologis Freeport Corporate Center 19,600 South Royal Lane,Coppell,43782,Building
+37,Prologis Northwest Trade Center 11,1065 Texan Trail,Grapevine,11650,Building
+38,Prologis Hanover 4,801 Hanover Drive,Grapevine,23646,Building
+39,Prologis Great Southwest 88,1101 N Highway 161,Grand Prairie,404236,Build-to-suit
+40,Prologis Plano Distribution Center 1,2800 E Plano Parkway,Plano,38400,Building
+41,Prologis Freeport Corporate Center 12,3193 Bass Pro Drive,Grapevine,35481,Building
+42,Prologis Hanover 4,801 Hanover Drive,Grapevine,23646,Building
+43,Prologis Stemmons 11,151 Regal Row,Dallas,12860,Building
+44,Prologis DFW 9,620 Westport Pkwy,Grapevine,18360,Building
+45,Prologis Heritage Business Park 6,800 Industrial Boulevard,Grapevine,14969,Building
+46,Prologis Hanover 2,601 Hanover Drive,Grapevine,9628,Building
+47,Prologis Heritage Business Park 7,720 Industrial Boulevard,Grapevine,14381,Building
+48,Prologis Great Southwest 70,609 Avenue R,Grand Prairie,12400,Building
+49,Prologis DFW Cargo Center 1,1639 W. 23rd Street,DFW Airport,2491,Building
+50,Prologis Northwest Trade Center 10,1063 Texan Trail,Grapevine,1735,Building
+51,Prologis SFO 35-36 (Shaw Business Center),200-218 Shaw Rd & 1264-1272 San Mateo Ave,South San Francisco,102330,Building
+52,Prologis Southern California Logistics Center,Air Expressway & Phantom,Victorville,46679,Build-to-suit
+53,Prologis Mid Counties Distribution Center 11,14821 Northam Street,La Mirada,70587,Building
+54,Prologis Airpark Logistics Center Bldg 3,1655 South Bullard Avenue,Goodyear,663005,Building
+55,Prologis Perris Distribution Center 5,4323 Indian Avenue,Perris,656695,Building
+56,Prologis Commerce Distribution Center 1,6100 Garfield Ave,Commerce,615000,Building
+57,Prologis Mountain View Industrial Park 16,NWC Slover Avenue & Cypress Avenue,Fontana,614520,Spec Building
+58,Prologis I-15 Speedway Logistics Center 1,5835 E Ann Road,North Las Vegas,525200,Building
+59,Prologis International Park of Commerce Building 28,5390 Promontory Parkway,Tracy,524081,Building
+60,Prologis Moreno Valley Logistics Center 4,"22750 Cactus Avenue,",Moreno Valley,522772,Building
+61,Prologis Lathrop 6,1850 E. Louise Avenue,Lathrop,519244,Building
+62,Prologis Oakland 4,7230-7240 Edgewater,Oakland,240808,Building
+63,Prologis International Park of Commerce Building 16,5051 Promontory Parkway,Tracy,450846,Building
+64,Prologis Alameda Crossing,1526 E. 7th Street,Los Angeles,450000,Building
+65,Prologis Torrance Distribution Center 8,1452 W. Knox Street,Torrance,442550,Building
+66,Chino Industrial Center 10,13799 Monte Vista Avenue,Chino,421031,Building
+67,Loop 303 Bldg 2,4790 North Cotton Lane,Goodyear,404415,Spec Building
+68,Prologis Tracy 14,1150 East Arbor Avenue,Tracy,555531,Building
+69,Prologis Stockton 10,4601 Newcastle Road,Stockton,388183,Building
+70,Prologis Anaheim Distribution Center 3,2872 E. La Palma St.,Anaheim,187520,Building
+71,Prologis Park Stockton 5,4512 Frontier Way,Stockton,351788,Building
+72,Prologis Airpark Logistics Center Bldg 2,1395 South Bullard Avenue,Goodyear,336588,Building
+73,Prologis Perris Distribution Center 9,23840 Rider Street,Perris,330735,Building
+74,Airport Distribution Center 1,15755 E 32nd Avenue,Aurora,108820,Building
+75,Prologis Sierra Business Park 3,10730 Production Avenue,Fontana,320990,Building
+76,Prologis San Bernardino Distribution Center 3,520 East Orange Show Road,San Bernardino,318989,Building
+77,Prologis Speedway Logistics Center 11,6250 East Washburn Road,Las Vegas,309278,Building
+78,Cornerstone Bldg 1,1710 Cornerway Blvd,San Antonio,306000,Building
+79,Prologis South San Jose 1,5853 Rue Ferrari,San Jose,302772,Building
+80,Prologis Redlands Distribution Center 20,1898 Marigold Avenue,Redlands,289683,Building
+81,Centro Industrial Juarez #3,Av. Miguel de la Madrid 1136,Juarez,283243,Spec Building
+82,Prologis South Bay Distribution Center 20,2201 E. Dominguez Street,Carson,272910,Building
+83,Prologis Sunrise Industrial Park 5,2861 North Marion Drive,Las Vegas,271616,Building
+84,Prologis Nexus,1345 Doolittle Drive,San Leandro,266000,Building
+85,Cheyenne Distribution Center 5 & 6,N. Lamb Blvd & Alto Avenue,Las Vegas,2613600,Build-to-suit
+86,Sandy Logistics Center,4570 NE 122nd Avenue,Portland,259835,Building
+87,Prologis Park Vancouver 1,3204 NW 38th Circle,Vancouver,259148,Building
+88,Prologis North County DC 3,2501 E Orangethorpe Ave,Fullerton,229422,Building
+89,North County DC 3,2501 E Orangethorpe Ave,Fullerton,229422,Building
+90,Prologis Mid Counties Distribution Center 8,16400 Trojan Way,La Mirada,220000,Building
+91,Prologis Redlands Distribution Center 16,"26759 Almond Avenue,",Redlands,218326,Building
+92,Prologis San Leandro 33,880 Doolittle Drive,San Leandro,218000,Building
+93,Prologis Park Clackamas,10500 SE Jennifer St.,Clackamas,2178000,Build-to-suit
+94,Prologis PDX 20,19295-19375 NE Riverside Pkwy,Gresham,207800,Building
+95,Prologis Torrance Distribution Center 9,1580 Francisco Street,Torrance,199927,Building
+96,Prologis Sunrise Industrial Park 6,2821 N Marion Drive,Las Vegas,24546,Building
+97,Rancho Cucamonga Distribution Center 1,"8449 Milliken Avenue,",Rancho Cucamonga,186960,Building
+98,Prologis Stockton 11,4733 Newcastle Road,Stockton,186944,Building
+99,Prologis Sierra Business Park 2,"10725 Sierra Avenue,",Fontana,167370,Building
+100,Speedway North Bldg 2,6052 E. North Belt Rd,North Las Vegas,181910,Spec Building

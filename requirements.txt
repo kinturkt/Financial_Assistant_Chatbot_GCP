@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-google-genai
+cloud-sql-python-connector[pg8000]
+SQLAlchemy
+pgvector
+pypdf
+vertexai
+streamlit
+beautifulsoup4
+requests
+python-dotenv
+tiktoken
