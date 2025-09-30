@@ -1,4 +1,4 @@
-# Prologis Financial Assistant Chatbot
+# Financial_Assistant_Chatbot_GCP
 
 AI-powered financial assistant for Prologis data analysis using Vertex AI and Cloud SQL.
 
